@@ -25,3 +25,7 @@ Program ini merupakan bagian dari implementasi permainan Tic Tac Toe. Fokus utam
 6.) Game Main
 
 Kelas GameMain adalah panel yang digunakan untuk menggambar papan permainan, mengelola logika permainan, dan berinteraksi dengan pemain. Program ini memanfaatkan pemrograman berorientasi objek dan paradigma pemisahan kelas untuk menciptakan permainan Tic Tac Toe yang interaktif dan mudah dimengerti bagi pemain. Pemain dapat bermain dengan mengklik sel pada papan, dan program secara otomatis mengelola logika permainan, termasuk penentuan pemenang, hasil imbang, dan perubahan giliran pemain.
+
+# Perubahan yang Dilakukan
+
+Perubahan yang dilakukan pada program defaultnya yaitu pada tampilan board papan permainan Tic Tac Toe. Kemudian perubahan selanjutnya yaitu perubahan tampilan pada bar status yang berfungsi menampilkan kondisi permainan saat itu juga. Dan perubahan terakhir yaitu pada saat mengawali permainan yang sebelumnya diawali dengan 'X' dirubah menjadi diawali dengan 'O' terlebih dahulu.
